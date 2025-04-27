@@ -45,19 +45,3 @@ features:
       ▸ 自动性能优化  
       ▸ 崩溃自动回档
 
-# 自定义区块（需搭配主题扩展）
-custom:
-  - title: "📜 最新动态"
-    content: |
-      **2024.03.20 版本升级**  
-      ▸ 支持 1.21.5 全新试炼殿堂  
-      ▸ 优化实体渲染性能 300%  
-      ▸ 新增建筑保护区域功能
-
-  - title: "🏞️ 玩家杰作"
-    grid:
-      - ![城堡建筑](https://wyzj.netlify.app/assets/images/gallery/gallery1.jpg)
-      - ![红石机械](https://wyzj.netlify.app/assets/images/gallery/gallery2.jpg)
-      - ![生态小镇](https://wyzj.netlify.app/assets/images/gallery/gallery3.jpg)
-      - ![地下基地](https://wyzj.netlify.app/assets/images/gallery/gallery4.jpg)
----
